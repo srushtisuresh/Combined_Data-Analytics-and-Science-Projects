@@ -1,7 +1,7 @@
 # Data-Analytics-and-Science-Projects
 
 I have built different projects over the course of my school time. The projects reflect the diversity of skills I have learned over the 6 years of my
-education and internship opportunities. I believe each of the projects highlight a unique perpective and a methodical problem solving approach.
+education and multiple internship opportunities. I believe each of the projects highlight a unique perpective and a methodical problem solving approach.
 Although in internships I have dealt with much larger and more complex datasets, I believe that I have put in what is required in an organized manner for
 each available public dataset. 
 
